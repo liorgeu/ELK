@@ -31,3 +31,4 @@ for message in consumer:
 print("Finished consuming messages and indexing to Elasticsearch.")
 
 
+#test
